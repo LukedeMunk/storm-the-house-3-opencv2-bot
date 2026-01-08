@@ -8,7 +8,7 @@ This project is a personal hobby project created for educational and experimenta
 
 Playing the game with the bot turns it more into a strategy game, where success depends on buying the right items at the right time. My main goal was to finish the game without purchasing shooters or gun towers, but I did not manage to achieve this. I believe the weapons in the game are not strong enough to make this possible. The bot is not perfect and can be optimized, but I cannot get past day 15 (out of 40) even with the `Old Glory` gun with maximum upgrades.
 
-I have managed to finish the game with the help of gunners and shooting towers.
+I managed to finish the game with the help of gunners and shooting towers. I have also included the full templates in the repository, so you can try to optimize the templates and the detection mechanism yourself. Let me know about your improvements and your high score using this bot.
 
 ## Getting Started
 

@@ -1,0 +1,47 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.a
+*.so
+*.idea
+*.iml
+*.pyc
+*.precompilecache
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+#*.7z Used to store cpr libraries
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.opt
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Directories #
+###############
+**/.vscode/*

@@ -41,7 +41,7 @@ GAME_WINDOW_Y = 130
 #region Global constants
 TARGET_POOL_SIZE = 4                                                            #A target pool is used to have less shoots on false positives
 PATH = os.path.dirname(os.path.realpath(__file__))                              #Current path
-TEMPLATE_FOLDER = "templates"                                                   #Folder containing the templates
+TEMPLATE_FOLDER = "template_images"                                             #Folder containing the templates
 TEMPLATE_PATH = os.path.join(PATH, TEMPLATE_FOLDER)                             #Full path to that folder
 
 #Template filenames

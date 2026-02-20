@@ -10,6 +10,8 @@ Playing the game with the bot turns it more into a strategy game, where success 
 
 I managed to finish the game with the help of gunners and shooting towers. I have also included the full templates in the repository, so you can try to optimize the templates and the detection mechanism yourself. Let me know about your improvements and your high score using this bot.
 
+![ui_screenshot](ui_screenshots/gameplay_day_34.png)
+
 ## Getting Started
 
 ### Prerequisites
